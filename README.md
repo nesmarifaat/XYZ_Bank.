@@ -1,6 +1,6 @@
 # XYZ_Bank.
 
-![XYZ_Bank Logo](https://images.app.goo.gl/Mw9EGGZ4GV1XKgdT9)
+![XYZ_Bank Logo](https://png.pngtree.com/png-vector/20190405/ourmid/pngtree-vector-bank-icon-png-image_912135.jpg)
 ## Table of Contents
 
 - [Introduction](#introduction)
